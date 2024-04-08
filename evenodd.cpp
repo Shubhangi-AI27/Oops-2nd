@@ -10,4 +10,5 @@ int main(){
     else{
       cout<<"number is odd"<<endl;
 }
+}
 
